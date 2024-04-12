@@ -18,10 +18,6 @@ class Prenda {
         this.colorSecundario = colorSecundario;
     }
 
-    public String toString() {
-        return tipo + " - " + categoria + " - " + material + " - " + colorPrincipal + " - " + colorSecundario;
-    }
-
 public class QueMePongo {
     private List<Prenda> prendas;
 
